@@ -1,0 +1,13 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: #f8f9fa; 
+}
+
+.card {
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}

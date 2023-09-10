@@ -1,0 +1,25 @@
+.chat-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chat-box {
+    height: 400px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.message .user {
+    font-weight: bold;
+}
+
+.chat-box {
+    max-height: 300px; /* Set the maximum height of the chat box */
+    overflow-y: auto; /* Enable vertical scrolling when the content exceeds the height */
+}
